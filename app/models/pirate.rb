@@ -1,4 +1,3 @@
-Learn more or give us feedback
 class Pirate
   attr_accessor :name, :height, :weight
   @@all = []
